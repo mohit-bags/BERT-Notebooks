@@ -1,0 +1,7 @@
+simpletransfomers
+pandas
+numpy
+nltk
+bs4
+torch
+
